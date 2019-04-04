@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Saaavy</string>
+    <string name="start_tracking_your_expenses">Start tracking your expenses</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gather_all_your_debts_morgages_and_spendings_in_one_place">Gather all your debts, morgages and \n spendings in one place.</string>
+    <string name="choose_currency">Choose Currency</string>
+    <string-array name="currencies">
+        <item>EUR €</item>
+        <item>Dollar $</item>
+    </string-array>
+
+</resources>
