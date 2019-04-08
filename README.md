@@ -1,6 +1,6 @@
 # Saavy
 ## Screenshots
-![GitHub Logo](/screenshots/Saaavy.gif)
+ <img src="/screenshots/History.png" width="70%" />
 
 <p float="left">
   <img src="/screenshots/History.png" width="30%" />
