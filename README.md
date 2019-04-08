@@ -1,7 +1,7 @@
 # Saavy
 ## Screenshots
 ### Animated Gif Process
-<img src="/screenshots/History.png" width="60%" />
+<img src="/screenshots/Saaavy.gif" width="60%" />
 
 ### Welcome Screen
 <p float="left">
